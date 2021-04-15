@@ -1,0 +1,49 @@
+* { margin: 0px; padding: 0px; }
+header { background-color: rgb(36, 36, 36); color: rgb(223, 222, 220); padding: 5px; }
+.header_content { overflow: hidden; width: 92%; margin-left: 40px; padding: 14px; }
+.logo { float: left; width: 20%; align-items: center; display: flex; padding-left: 0px; }
+.logo h2 { font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif; display: inline; }
+nav { float: right; width: 80%; text-align: right; }
+nav ul { list-style: none; }
+nav ul li { display: inline; padding: 14px; font-size: 22px; }
+nav ul li:first-child { background-color: rgb(67, 139, 204); }
+.main_image { width: 60%; margin-left: 22%; margin-top: 2%; text-align: center; }
+.main_image img { width: 86%; }
+.feature { margin: 35px 2% 15px 6%; overflow: hidden; text-align: center; }
+.feature_1 { width: 28%; float: left; margin-right: 4%; }
+.feature_1 img { }
+.feature_1 span { display: block; font-size: 29px; text-transform: capitalize; font-weight: bolder; color: rgb(73, 73, 73); padding: 5px; }
+.feature p { color: rgb(49, 46, 46); }
+.feature_2 { width: 28%; float: left; margin-right: 4%; }
+.feature_2 span { display: block; font-size: 29px; text-transform: capitalize; font-weight: bolder; color: rgb(73, 73, 73); padding: 5px; }
+.feature_3 { width: 28%; float: left; }
+.feature_3 span { display: block; font-size: 29px; text-transform: capitalize; font-weight: bolder; color: rgb(73, 73, 73); padding: 5px; }
+.reference { overflow: hidden; margin-left: 10%; text-align: center; margin-bottom: 34px; }
+.reference_1 { float: left; width: 35%; margin-right: 10%; }
+.reference h2 { color: rgb(47, 45, 45); margin: 22px 0px 19px; font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif; }
+.reference p { color: rgb(49, 46, 46); }
+.reference_2 { float: left; width: 35%; }
+.footer_image {overflow: hidden;margin-left: 3%;margin-bottom: 40px;margin-right: 3%;}
+.footer_image_1 {width: 38%;float: left;margin-right: 15%;}
+.footer_image_1 img { width: 136%; }
+.footer_image_2 {width: 38%;float: left;}
+.footer_image_2 img { width: 136%; }
+footer{
+    padding: 5px;
+    text-align: center;
+    background-color: #242426;
+}
+footer img{
+
+width: 12%;
+}
+footer h3{
+
+color: #5f5f5a;
+
+margin-bottom: 5px;
+}
+footer h4{
+
+color: #5959e4;
+}
